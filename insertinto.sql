@@ -7,5 +7,7 @@ CREATE TABLE Student(
 INSERT INTO Student (id, name, age, marks) VALUES
      (1, 'MIKEY', 20, 80),
      (2, 'KAZHITORO', 21, 90),
-     (3, 'TAKIMICHI', 19, 60);
+     (3, 'TAKIMICHI', 19, 60),
+     (4,'mitsuya',20,75);
+
 SELECT * FROM Student;
