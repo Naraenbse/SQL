@@ -7,11 +7,13 @@ CREATE TABLE Student(
 
 INSERT INTO Student (id, name, age, marks)
 VALUES
-(1, 'MIKEY', 20, 80),
+(1,'MIKEY', 20, 80),
 (2, 'KAZHITORO', 21, 90),
 (3, 'TAKIMICHI', 19, 60),
 (4, 'draken', 22, 85),
-(5, 'MITSUYA', 20, 75);
+(5, 'MITSUYA', 20, 75),
+(6,'Baji',21,70),
+(7,'chifuyu',20,85);
 
 SELECT * FROM Student;
 
