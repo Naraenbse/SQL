@@ -1,0 +1,11 @@
+CREATE TABLE COLLEGE(
+    id INT,
+    name VARCHAR(20),
+    fees INT
+);
+INSERT INTO COLLEGE VALUES
+(1,'ash',50000),
+(2,'bob',60000),
+(3,'charlie',70000);
+
+SELECT * FROM COLLEGE;
