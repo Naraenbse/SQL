@@ -12,7 +12,8 @@ VALUES
 (2, 'Sugar', 5, 45),
 (3, 'Milk', 12, 30),
 (4, 'Apple', 8, 120),
-(5, 'Soap', 15, 35);
+(5, 'Soap', 15, 35),
+(6, 'Eggs', 20, 50);
 
 SELECT * FROM Grocery;
 
